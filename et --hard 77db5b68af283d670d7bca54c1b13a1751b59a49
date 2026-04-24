@@ -1,0 +1,85 @@
+[33mcommit 9692dd86d95ab46dee83f4d66aa0ec589aa5c37f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Fri Apr 10 16:04:40 2026 +0800
+
+    2
+
+[33mcommit 5ee4f4b8edc1daf755a394a8536ff1d49b52c024[m
+Merge: 77db5b6 a01986f
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Fri Apr 10 16:02:36 2026 +0800
+
+    Merge branch 'main' of https://github.com/LeoWUCoder/AI-Agent
+
+[33mcommit 77db5b68af283d670d7bca54c1b13a1751b59a49[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Fri Apr 10 16:00:11 2026 +0800
+
+    1
+
+[33mcommit a01986fb75ba6d133605ef6a8e84826e25e64714[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Tue Apr 7 11:28:11 2026 +0800
+
+    宏定义
+
+[33mcommit 468cfa1a7890c32a7fce3afbbad8ed267c0e13ca[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Tue Apr 7 09:30:29 2026 +0800
+
+    c learning
+
+[33mcommit 181f81c5f278d230d46c132ac26ea3da540929c4[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Thu Apr 2 11:21:08 2026 +0800
+
+    C 2
+
+[33mcommit 248c9b3bead0bb9c2027ff368b4d1f1cbb426aa6[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Mon Mar 30 16:24:43 2026 +0800
+
+    C
+
+[33mcommit 26e39373f8f70caa60cd17742797e9a3174d0f15[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Mon Mar 30 16:00:28 2026 +0800
+
+    更新
+
+[33mcommit 0da390934caf17d1cfd9af4b373eb20f178a1bd6[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Mon Mar 30 11:27:33 2026 +0800
+
+    eval
+
+[33mcommit 51a44c30a915344b9534b63e4d646df518941d31[m
+Merge: 6c149f4 e94a689
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Fri Mar 27 11:21:29 2026 +0800
+
+    Merge branch 'main' of https://github.com/LeoWUCoder/AI-Agent
+
+[33mcommit 6c149f470e4341525c039e0aff14b353299d1bbb[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Fri Mar 27 11:21:22 2026 +0800
+
+    easydataset生成
+
+[33mcommit e94a68987c4e904bf6ee51b00ac6fe83cc2835ca[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Tue Mar 24 11:23:46 2026 +0800
+
+    大模型微调实战
+
+[33mcommit 3d418cbd40b70872a3ec734bc315eb2fc3d9a7a9[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Mon Mar 23 11:40:52 2026 +0800
+
+    实战
+
+[33mcommit aa06c00d354bf8a0bfa4d3c8b67d66861155d173[m
+Author: LeoWUCoder <3203249958@qq.com>
+Date:   Mon Mar 23 10:54:37 2026 +0800
+
+    1
